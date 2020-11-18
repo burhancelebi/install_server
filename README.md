@@ -463,7 +463,7 @@ crontab eklemeyebilmek için aşağıdaki komutu girin
 
 Aşağıdaki satırı açılan dosyaya ekleyin ve kaydedin.
 
-    * * * * * php /var/www/your_project/artisan receipt:run
+    * * * * * php /var/www/your_project/artisan command:run
 
 ## Supervisor kurulumu : ##
 Yazılımı güncelliyoruz
